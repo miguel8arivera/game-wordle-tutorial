@@ -1,0 +1,6 @@
+@import "./variables.module.scss";
+
+.mainContainer {
+  width: ($size * 5) + ($gap * 5);
+  margin: 100px auto;
+}
